@@ -75,3 +75,10 @@ Based on the findings, the following recommendations were provided:
 ## Conclusion
 
 This project highlights key opportunities for Metrocar to optimize its platform by improving driver availability, communication, and targeting the most valuable user demographics. By addressing the drop-offs in the customer and ride funnels and refining surge pricing strategies, Metrocar can increase its revenue, improve user satisfaction, and enhance overall platform performance.
+
+##Authors
+
+Elif Aydin Alsancak
+Mayfair A. Agyei
+Smit Patel
+Jason A. Martin
